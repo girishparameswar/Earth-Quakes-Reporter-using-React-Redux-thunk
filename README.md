@@ -1,1 +1,1 @@
-# Earth-Quakes-Reporter-using-React-Redux-thunk
+This web  application is written in React and Redux that proivdes the list of Earthquakes happening around the world in an hour or day or week or month in an interactive way. Rechats library is used to generate Graphs/Charts.
